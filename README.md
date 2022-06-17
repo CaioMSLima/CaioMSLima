@@ -8,8 +8,7 @@
  </a>
 
  ![Caio Matos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMSLima&show_icons=true&theme=chartreuse-dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMSLima&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
