@@ -1,5 +1,5 @@
 ## Oi Eu sou o Caio Matos 👋
-- 🌱 Estudando: Python,SQL, HTML5, CSS3, Java e Bacharelado em Engenharia de Software
+- 🌱 Estudando: Python, , Java, SQL, HTML5, CSS3 e Bacharelado em Engenharia de Software
 - 😄 Pronoun: ele/dele
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-matos-siqueira-de-lima-1b9722174/)
