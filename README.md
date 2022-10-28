@@ -22,5 +22,6 @@
   
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+A arte de programar consiste em organizar e dominar a complexidade.
+
 
