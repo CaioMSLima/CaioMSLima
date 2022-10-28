@@ -1,6 +1,6 @@
 ## Oi Eu sou o Caio Matos  👋
 - 💻 Área: Desenvolvedor Back end 
-- 🌱 Estudando: Bacharelado em Engenharia de Software
+- 📙 Estudando: Bacharelado em Engenharia de Software
 - 😄 Pronoun: Ele/dele
 - 👨‍💻 Emprego: Estágio em Salesforce
 
