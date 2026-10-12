@@ -1,8 +1,8 @@
 ## Oi Eu sou o Caio Matos  👋
 - 💻 Área: Desenvolvedor Back end 
-- 📙 Estudando: Bacharelado em Engenharia de Software
+- 📙 Estudando: JavaScrit, Typescript, Ia aplicada
 - 😄 Pronoun: Ele/dele
-- 👨‍💻 Emprego: Estágio em Salesforce
+- 👨‍💻 Emprego: Desenvolvedor  Salesforce
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-matos-siqueira-de-lima-1b9722174/)
  <a href="mailto:caiomslima@gmail.com" target="_blanck">
